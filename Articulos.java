@@ -7,7 +7,7 @@ public class Articulos {
    private String marca;
    private double precio;
    private int stock;
-   
+   //hola
    public Articulos(){
        
    }
